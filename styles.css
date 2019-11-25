@@ -39,7 +39,9 @@ nav{
 .abt{
 text-align:center;
 padding:20px;
-justify-content:space-around;
+background-image: url('https://bit.ly/2XTuKXf');
+background-repeat: no-repeat;
+background-size: cover;
 }
 .proj{
   box-shadow: 0 ,4px, 8px,0;
