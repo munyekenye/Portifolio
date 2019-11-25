@@ -40,13 +40,13 @@ justify-content:space-around;
 .proj > h1 {
   text-align:center;
   padding:20px;
+
 }
 .proj > img {
   padding:10px;
   position:center;
   width:30%;
   margin-left:100px;
-  margin-top:5px;
 }
 .proj > button {
   display: inline-block;
