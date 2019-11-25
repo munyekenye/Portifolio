@@ -47,6 +47,7 @@ background-size: cover;
   box-shadow: 0 ,4px, 8px,0;
   transition:0.2s;
   align-items: center;
+  background-color: cornsilk;
 }
 .proj > h1 {
   text-align:center;
@@ -57,12 +58,12 @@ background-size: cover;
   padding:10px;
   position:center;
   width:30%;
-  margin-left:100px;
+  margin-left:500px;
 }
 .proj > button {
   display: inline-block;
   text-align:center;
-  margin-left:100px;
+  margin-left:550px;
   margin-top:1px;
   background-color: rgb(168, 135, 111);
   color:black;
