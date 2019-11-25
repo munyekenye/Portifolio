@@ -16,6 +16,15 @@ nav{
 .topnav{
   text-align: center;
 }
+.topage{
+  background-image:url("https://bit.ly/2sh7N4x");
+  background-repeat:no-repeat;
+  background-size: cover;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+}
 .toptext{
   top:50%;
   left:50%;
