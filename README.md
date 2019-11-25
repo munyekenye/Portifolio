@@ -22,3 +22,5 @@ GIT(for version contract)
 
 - 0721425049
 
+## License
+- Licensed under the [MIT license](LICENSE).
