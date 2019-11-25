@@ -1,0 +1,17 @@
+.topnav > li{
+  list-style:none;
+  display:inline;
+}
+.topnav > li > a{
+  text-decoration:none;
+  font-size:15px;
+  padding:15px;
+}
+nav{
+  padding:20px;
+  width:100%;
+  background-color: burlywood;
+}
+.topnav{
+  text-align: center;
+}
