@@ -30,6 +30,7 @@ nav{
 .abt{
 text-align:center;
 padding:20px;
+justify-content:space-around;
 }
 .proj{
   box-shadow: 0 ,4px, 8px,0;
@@ -38,12 +39,14 @@ padding:20px;
 }
 .proj > h1 {
   text-align:center;
+  padding:20px;
 }
 .proj > img {
   padding:10px;
   position:center;
   width:30%;
   margin-left:100px;
+  margin-top:5px;
 }
 .proj > button {
   display: inline-block;
@@ -63,9 +66,13 @@ padding:20px;
   background-color:burlywood;
   color:black;
   width:100%;
+  padding-bottom:2%;
 }
 *{
 margin:0;
 padding:o;
 box-sizing:border-box;
+}
+h3{
+  padding:20px;
 }
